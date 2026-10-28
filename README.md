@@ -68,4 +68,4 @@ Public standalone repository first published September 25, 2026.
 
 ## Cite
 
-Brajer, J. (Cwi). Zenodo. https://doi.org/10.5281/zenodo.23718097 · ORCID [0009-0004-0113-1341](https://orcid.org/0009-0004-0113-1341)
+Brajer, J. (2026). *CWI behavioral corridor framework by John Brajer* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23718097 · ORCID [0009-0004-0113-1341](https://orcid.org/0009-0004-0113-1341)
