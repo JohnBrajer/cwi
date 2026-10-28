@@ -3,6 +3,7 @@ message: "If you use or reference this work, please cite it as below."
 title: "CWI behavioral corridor framework by John Brajer"
 abstract: "CWI behavioral corridor framework by John Brajer: possibility, social permission, uncertainty, differentiation, and normalization."
 type: software
+doi: "10.5281/zenodo.23718097"
 authors:
   - family-names: Brajer
     given-names: John
